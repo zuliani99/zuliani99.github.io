@@ -1,6 +1,6 @@
 ---
 title: "Active Learning strategy using Graph Transduction Game"
-excerpt: "Newer Active Learning strategy based on Graph Transduction Game"
+excerpt: "Newer Active Learning strategy based on Graph Transduction Game."
 collection: portfolio
 ---
 
