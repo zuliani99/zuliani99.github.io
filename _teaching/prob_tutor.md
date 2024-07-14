@@ -8,6 +8,8 @@ date: 2023-01-09
 location: "Venice Mestre, Italy"
 ---
 
+Assist undergraduate students with additional classes.
+
 The tutor’s activity will be articulated as follows:
 
 * Frontal teaching that is explained both in the solution of exercises on the blackboard and in the solution of problems with the use of the computer;
