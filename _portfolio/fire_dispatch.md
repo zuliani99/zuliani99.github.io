@@ -67,3 +67,6 @@ If you want to execute the **.Rmd** file remember to change the working director
 1. **Part 1 - Dataset Analysis and Cleaning**: here we explore and cleand the dataset
 2. **Part 2 - Linear Regreasion**: we try to fit a linear regression model
 3. **Part 3 - Classification**: cast the analysis to a classification task
+
+
+## [Github Link](https://github.com/zuliani99/Fire_Incident_Dispatch_Data_Analysis)

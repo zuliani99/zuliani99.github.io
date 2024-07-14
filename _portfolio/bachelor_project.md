@@ -67,6 +67,8 @@ In all operation these action are available:
 * See the **Timelife** of all algorithms
 * Inspect the **Pipeline** of al algorithms
 
+## [Github Link](https://github.com/zuliani99/AutoML-Benchmark)
 
 ### Cite Me
 The following project was the bachelor's thesis and ccan be foun at the follwing [link](https://github.com/zuliani99/AutoML-Benchmark/blob/master/Dash_AutoML_Benchmark_Thesis.pdf).
+
