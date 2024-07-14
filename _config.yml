@@ -21,7 +21,7 @@ repository               : "zuliani99/zuliani99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "zuliani99"
   pronouns         : # example: "she/her"  
   bio              : "Master CS student from Ca' Foscari University of Venice"
