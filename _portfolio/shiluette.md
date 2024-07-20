@@ -76,7 +76,7 @@ python camera_calibration.py
 cd 1_background_foreground_detection
 python back_fore_undist_segmentation.py
 
-cd 2_markers_detector
+cd 2_markers_detector`
 python marker_detector.py
 
 cd 3_pose_estimation
