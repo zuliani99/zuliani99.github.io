@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Riccardo Zuliani"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 
 ### Here it is a litte of me... 🙄
 
-- 🔬 Currently I'm working as a ML Engineer & Researcher for [NAIS](https://www.naisengineering.com/).
+- 🔬 I'm currently working as a ML Engineer & Researcher for [NAIS](https://www.naisengineering.com/).
 
 - 🤩 I'm passionate about Artificial Intelligence in particular its application on the Computer Vision field.
 
