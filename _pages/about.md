@@ -11,7 +11,9 @@ redirect_from:
 
 ### Here it is a litte of me... 🙄
 
-- 🔬 I'm currently working as a ML Engineer & Researcher for [NAIS](https://www.naisengineering.com/).
+- 🔬 I'm a Machine Learning Engineer & Researcher, most recently at [NAIS](https://www.naisengineering.com/), where I worked on deep learning and time series anomaly detection for Formula 1.
+
+- 🚀 I'm currently **open to new opportunities**, based in Treviso, Italy — feel free to reach out!
 
 - 🤩 I'm passionate about Artificial Intelligence in particular its application on the Computer Vision field.
 

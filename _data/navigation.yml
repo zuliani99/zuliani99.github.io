@@ -6,7 +6,7 @@ main:
   #- title: "Talks"
   #  url: /talks/    
   - title: "CV"
-    url: /files/RiccardoZuliani_CV.pdf
+    url: /cv/
 
   - title: "Portfolio"
     url: /portfolio/
